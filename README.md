@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Gurpreet Singh. I am a 4th year Informatics student at the University of California Irvine
+
+Check out my [website](www.iamgurpreetsingh.github.io) and my [LinkedIn](https://www.linkedin.com/in/nameisgurpreetsingh/)
+
 <!--
 **iamgurpreetsingh/iamgurpreetsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
