@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://iamgurpreetsingh.github.io/">
+  <a href="http://nameisgurpreetsingh.me//">
   <img src="https://readme-typing-svg.demolab.com/?lines=%20Gurpreet%20Singh&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000000000&size=52" /></a>
 </p>
 
@@ -17,9 +17,9 @@
 
 <div align="center">
 
-  <a href="https://github.com/iamgurpreetsingh">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  <a href="https://github.com/nameisgurpreetsingh">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 </a>
-  <a href="https://github.com/iamgurpreetsingh">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  <a href="https://github.com/nameisgurpreetsingh">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </a>
 
 </div>
